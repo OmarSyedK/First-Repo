@@ -1,2 +1,1 @@
-# First-Repo
-Blablablabla
+Calculate total and average marks of three subjects written in JAVA...
